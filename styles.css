@@ -1,0 +1,14 @@
+.container, .results {
+    width: 400px;
+    padding: 10px;
+    margin: 50px auto;
+    border: 5px solid red;
+    border-radius: 10px;
+    background-color: yellow;
+}
+.candy {
+    width: 350px;
+    padding: 15px;
+    border: 10px solid green;
+    background-color: black;
+}
